@@ -381,39 +381,6 @@
         .legend-dot.champ  { background: rgba(139,92,246,0.5); }
         .legend-dot.danger { background: rgba(239,68,68,0.5); }
 
-        /* ---- FIXTURES ---- */
-        .fixtures-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 12px;
-            padding: 20px;
-        }
-
-        .fixture-card {
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 18px;
-            display: flex;
-            align-items: center;
-            gap: 14px;
-            transition: border-color 0.2s, box-shadow 0.2s;
-            animation: fadeUp 0.35s ease both;
-        }
-        .fixture-card:hover {
-            border-color: rgba(139,92,246,0.35);
-            box-shadow: 0 0 20px rgba(139,92,246,0.08);
-        }
-
-        .fix-team {
-            flex: 1;
-            font-family: 'Orbitron', sans-serif;
-            font-size: 0.72rem;
-            font-weight: 700;
-            letter-spacing: 0.05em;
-            text-align: center;
-            color: var(--text);
-        }
 
         .vs-orb {
             display: flex;
@@ -484,7 +451,6 @@
             .podium-name  { font-size: 0.6rem; }
             thead th, tbody td { padding: 9px 7px; font-size: 0.72rem; }
             nav.tab-nav button { font-size: 0.6rem; padding: 9px 10px; }
-            .fixtures-grid { grid-template-columns: 1fr; padding: 12px; }
         }
     </style>
 </head>
@@ -518,9 +484,6 @@
         <button class="active" data-tab="standings" onclick="switchTab('standings',this)">
             <i class="fas fa-trophy"></i> STANDINGS
         </button>
-        <button data-tab="fixtures" onclick="switchTab('fixtures',this)">
-            <i class="fas fa-futbol"></i> FIXTURES
-        </button>
     </nav>
 
     <!-- STANDINGS TAB -->
@@ -530,19 +493,6 @@
             <div class="sk-row"><div class="skeleton" style="width:30px;height:30px;border-radius:8px;flex-shrink:0"></div><div class="skeleton" style="flex:1"></div><div class="skeleton" style="width:20px"></div><div class="skeleton" style="width:20px"></div><div class="skeleton" style="width:20px"></div><div class="skeleton" style="width:28px"></div></div>
             <div class="sk-row"><div class="skeleton" style="width:30px;height:30px;border-radius:8px;flex-shrink:0"></div><div class="skeleton" style="flex:1"></div><div class="skeleton" style="width:20px"></div><div class="skeleton" style="width:20px"></div><div class="skeleton" style="width:20px"></div><div class="skeleton" style="width:28px"></div></div>
             <div class="sk-row"><div class="skeleton" style="width:30px;height:30px;border-radius:8px;flex-shrink:0"></div><div class="skeleton" style="flex:1"></div><div class="skeleton" style="width:20px"></div><div class="skeleton" style="width:20px"></div><div class="skeleton" style="width:20px"></div><div class="skeleton" style="width:28px"></div></div>
-        </div>
-    </div>
-
-    <!-- FIXTURES TAB -->
-    <div id="fixtures" class="tab-content">
-        <div class="glass-card">
-            <div class="sec-header">
-                <div class="sec-title"><i class="fas fa-futbol"></i> &nbsp;PENDING FIXTURES</div>
-                <div class="sec-badge" id="fix-count">—</div>
-            </div>
-            <div id="fixtures-grid" class="fixtures-grid">
-                <div class="empty-state"><i class="fas fa-futbol"></i>Loading fixtures…</div>
-            </div>
         </div>
     </div>
 
