@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 26,
+      "played": 27,
       "wins": 8,
-      "draws": 8,
+      "draws": 9,
       "losses": 10,
-      "points": 32,
+      "points": 33,
       "gf": 25,
       "ga": 30,
       "form": [
-        "L",
         "W",
         "W",
         "W",
@@ -21,30 +20,31 @@
         "D",
         "L",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 26,
+      "played": 27,
       "wins": 7,
       "draws": 8,
-      "losses": 11,
+      "losses": 12,
       "points": 29,
       "gf": 20,
-      "ga": 26,
+      "ga": 29,
       "form": [
         "D",
         "D",
-        "D",
         "L",
         "L",
         "D",
         "L",
         "W",
         "W",
+        "L",
         "L"
       ]
     },
@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 26,
-      "wins": 16,
+      "played": 27,
+      "wins": 17,
       "draws": 5,
       "losses": 5,
-      "points": 53,
-      "gf": 48,
+      "points": 56,
+      "gf": 50,
       "ga": 15,
       "form": [
-        "D",
         "W",
         "W",
         "W",
@@ -69,6 +68,7 @@
         "W",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -76,11 +76,11 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 27,
+      "played": 28,
       "wins": 3,
-      "draws": 10,
+      "draws": 11,
       "losses": 14,
-      "points": 19,
+      "points": 20,
       "gf": 8,
       "ga": 45,
       "form": [
@@ -88,27 +88,26 @@
         "L",
         "L",
         "L",
-        "L",
         "D",
         "D",
         "D",
         "L",
+        "D",
         "D"
       ]
     },
     {
-      "name": "XWRLD🕴🏽",
-      "username": "XWRLD_REAPERS",
-      "phone": "0750656258",
-      "played": 26,
-      "wins": 14,
+      "name": "Dilibo",
+      "username": "DiliboL",
+      "phone": "0760348136",
+      "played": 27,
+      "wins": 15,
       "draws": 7,
       "losses": 5,
-      "points": 49,
-      "gf": 39,
-      "ga": 17,
+      "points": 52,
+      "gf": 42,
+      "ga": 18,
       "form": [
-        "W",
         "W",
         "D",
         "W",
@@ -117,23 +116,23 @@
         "W",
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 25,
+      "played": 26,
       "wins": 14,
       "draws": 2,
-      "losses": 9,
+      "losses": 10,
       "points": 44,
-      "gf": 41,
-      "ga": 18,
+      "gf": 42,
+      "ga": 21,
       "form": [
         "W",
-        "W",
         "L",
         "D",
         "L",
@@ -141,20 +140,21 @@
         "L",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 26,
-      "wins": 15,
+      "played": 27,
+      "wins": 16,
       "draws": 7,
       "losses": 4,
-      "points": 52,
-      "gf": 52,
-      "ga": 18,
+      "points": 55,
+      "gf": 55,
+      "ga": 19,
       "form": [
         "W",
         "W",
@@ -172,15 +172,14 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 26,
+      "played": 27,
       "wins": 0,
-      "draws": 14,
+      "draws": 15,
       "losses": 12,
-      "points": 14,
+      "points": 15,
       "gf": 2,
       "ga": 39,
       "form": [
-        "D",
         "L",
         "L",
         "D",
@@ -189,6 +188,7 @@
         "D",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -196,18 +196,42 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 26,
+      "played": 27,
       "wins": 1,
       "draws": 9,
-      "losses": 16,
+      "losses": 17,
       "points": 12,
       "gf": 3,
-      "ga": 46,
+      "ga": 49,
       "form": [
+        "L",
+        "L",
+        "D",
+        "D",
+        "L",
         "L",
         "L",
         "L",
         "D",
+        "L"
+      ]
+    },
+    {
+      "name": "SMANGALISO",
+      "username": "SMANGALISO",
+      "phone": "0780070989",
+      "played": 27,
+      "wins": 4,
+      "draws": 9,
+      "losses": 14,
+      "points": 21,
+      "gf": 14,
+      "ga": 36,
+      "form": [
+        "D",
+        "L",
+        "W",
+        "L",
         "D",
         "L",
         "L",
@@ -217,48 +241,24 @@
       ]
     },
     {
-      "name": "SMANGALISO",
-      "username": "SMANGALISO",
-      "phone": "0780070989",
-      "played": 26,
-      "wins": 4,
-      "draws": 8,
-      "losses": 14,
-      "points": 20,
-      "gf": 14,
-      "ga": 36,
-      "form": [
-        "L",
-        "D",
-        "L",
-        "W",
-        "L",
-        "D",
-        "L",
-        "L",
-        "L",
-        "L"
-      ]
-    },
-    {
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 25,
-      "wins": 21,
+      "played": 26,
+      "wins": 22,
       "draws": 2,
       "losses": 2,
-      "points": 65,
-      "gf": 63,
+      "points": 68,
+      "gf": 66,
       "ga": 16,
       "form": [
-        "D",
         "W",
         "W",
         "L",
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W"
@@ -268,15 +268,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 26,
+      "played": 27,
       "wins": 20,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "points": 62,
       "gf": 60,
-      "ga": 15,
+      "ga": 17,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -285,6 +284,7 @@
         "D",
         "W",
         "W",
+        "L",
         "L"
       ]
     },
@@ -292,21 +292,21 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 26,
+      "played": 27,
       "wins": 0,
       "draws": 7,
-      "losses": 19,
+      "losses": 20,
       "points": 7,
       "gf": 3,
-      "ga": 61,
+      "ga": 64,
       "form": [
-        "D",
         "L",
         "L",
         "L",
         "L",
         "L",
         "D",
+        "L",
         "L",
         "L",
         "L"
@@ -316,21 +316,21 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 22,
-      "wins": 13,
+      "played": 23,
+      "wins": 14,
       "draws": 4,
       "losses": 5,
-      "points": 43,
-      "gf": 33,
+      "points": 46,
+      "gf": 36,
       "ga": 17,
       "form": [
-        "W",
         "D",
         "L",
         "L",
         "L",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W"
@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 24,
+      "played": 25,
       "wins": 12,
       "draws": 6,
-      "losses": 6,
+      "losses": 7,
       "points": 42,
-      "gf": 41,
-      "ga": 16,
+      "gf": 42,
+      "ga": 19,
       "form": [
-        "W",
         "W",
         "W",
         "D",
@@ -357,23 +356,23 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 24,
+      "played": 25,
       "wins": 9,
-      "draws": 11,
+      "draws": 12,
       "losses": 4,
-      "points": 38,
+      "points": 39,
       "gf": 32,
       "ga": 17,
       "form": [
         "D",
-        "D",
         "W",
         "W",
         "L",
@@ -381,6 +380,7 @@
         "L",
         "D",
         "L",
+        "D",
         "D"
       ]
     },
@@ -388,15 +388,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 26,
+      "played": 27,
       "wins": 10,
-      "draws": 11,
+      "draws": 12,
       "losses": 5,
-      "points": 41,
+      "points": 42,
       "gf": 32,
       "ga": 22,
       "form": [
-        "D",
         "W",
         "L",
         "D",
@@ -405,22 +404,22 @@
         "D",
         "D",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 26,
+      "played": 27,
       "wins": 3,
-      "draws": 12,
+      "draws": 13,
       "losses": 11,
-      "points": 20,
+      "points": 21,
       "gf": 9,
       "ga": 37,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -428,47 +427,23 @@
         "D",
         "D",
         "D",
-        "L",
-        "W"
-      ]
-    },
-    {
-      "name": "DJRonaldoZA",
-      "username": "DJRonaldoZA",
-      "phone": "0711764627",
-      "played": 25,
-      "wins": 8,
-      "draws": 3,
-      "losses": 14,
-      "points": 27,
-      "gf": 19,
-      "ga": 37,
-      "form": [
-        "L",
-        "L",
-        "L",
         "L",
         "W",
-        "L",
-        "L",
-        "L",
-        "D",
-        "L"
+        "D"
       ]
     },
     {
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 19,
-      "wins": 6,
+      "played": 20,
+      "wins": 7,
       "draws": 3,
       "losses": 10,
-      "points": 21,
-      "gf": 20,
+      "points": 24,
+      "gf": 23,
       "ga": 28,
       "form": [
-        "W",
         "D",
         "L",
         "W",
@@ -477,22 +452,24 @@
         "L",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 2,
+      "played": 3,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "losses": 1,
-      "points": 1,
+      "points": 2,
       "gf": 0,
       "ga": 3,
       "form": [
         "L",
+        "D",
         "D"
       ]
     }
@@ -501,7 +478,7 @@
   "results": [
     {
       "home": "bhaze",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "home",
       "homeGoals": 1,
       "awayGoals": 0,
@@ -716,7 +693,7 @@
     },
     {
       "home": "Lukie",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 2,
@@ -925,7 +902,7 @@
     },
     {
       "home": "bhaze",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "draw",
       "id": 1772261774554
     },
@@ -949,7 +926,7 @@
     },
     {
       "home": "Mashinini",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "id": 1772261958573
     },
@@ -1053,7 +1030,7 @@
     },
     {
       "home": "RFT07",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "home",
       "homeGoals": 4,
       "awayGoals": 1,
@@ -1184,7 +1161,7 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_E1even-Starz_1772568281371.jpg"
     },
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "DJRonaldoZA",
       "result": "home",
       "homeGoals": 1,
@@ -1239,7 +1216,7 @@
     },
     {
       "home": "Yungboyshlime",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -1338,7 +1315,7 @@
     },
     {
       "home": "Lukie",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -1476,7 +1453,7 @@
     },
     {
       "home": "Zan-Ten",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "draw",
       "homeGoals": 0,
       "awayGoals": 0,
@@ -1553,7 +1530,7 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Nigelmj21_1773004378593.jpg"
     },
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "wham",
       "result": "draw",
       "id": 1773004504216
@@ -1623,7 +1600,7 @@
     },
     {
       "home": "wham",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -1762,7 +1739,7 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_KING_KHESWA._1773299902997.jpg"
     },
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "Yungboyshlime",
       "result": "home",
       "homeGoals": 3,
@@ -1810,7 +1787,7 @@
     },
     {
       "home": "ExequielThwala",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -1987,7 +1964,7 @@
     },
     {
       "home": "E1even-Starz",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -2088,7 +2065,7 @@
     },
     {
       "home": "DJRonaldoZA",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -2201,7 +2178,7 @@
     },
     {
       "home": "leomessi",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "draw",
       "homeGoals": 1,
       "awayGoals": 1,
@@ -2290,7 +2267,7 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_DJRonaldoZA_1773902049216.jpg"
     },
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "SMANGALISO",
       "result": "home",
       "homeGoals": 3,
@@ -2309,7 +2286,7 @@
     },
     {
       "home": "Yungboyshlime",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "draw",
       "id": 1773902543384
     },
@@ -2433,7 +2410,7 @@
     },
     {
       "home": "SMANGALISO",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -2531,7 +2508,7 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_leomessi_1774126603362.png"
     },
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "Dontwindraw",
       "result": "away",
       "homeGoals": 0,
@@ -2638,7 +2615,7 @@
     },
     {
       "home": "Yungboyshlime",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -2740,7 +2717,85 @@
       "away": "DARK-_-CEO",
       "result": "draw",
       "id": 1774471972376
+    },
+    {
+      "home": "DiliboL",
+      "away": "CRANK_",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "id": 1774563841570,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DiliboL_vs_CRANK__1774563839464.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "id": 1774563858117,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_KING_KHESWA._1774563857431.jpg"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "RoyalAM",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "id": 1774563930123,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_RoyalAM_1774563929446.jpg"
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774563946662,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_RFT07_1774563945538.jpg"
+    },
+    {
+      "home": "wham",
+      "away": "Zan-Ten",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774563976108,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/wham_vs_Zan-Ten_1774563974664.jpg"
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "Sailor",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1774563996345,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_Sailor_1774563995568.jpg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "MGSatarou",
+      "result": "draw",
+      "id": 1774564165733
+    },
+    {
+      "home": "bhaze",
+      "away": "Lukie",
+      "result": "draw",
+      "id": 1774564166358
+    },
+    {
+      "home": "Barca.",
+      "away": "DARK-_-CEO",
+      "result": "draw",
+      "id": 1774564166856
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "SMANGALISO",
+      "result": "draw",
+      "id": 1774564167301
     }
   ],
-  "lastUpdated": "2026-03-25T20:52:59.087Z"
+  "lastUpdated": "2026-03-26T22:29:43.683Z"
 }
