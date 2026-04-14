@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 35,
+      "played": 36,
       "wins": 9,
       "draws": 11,
-      "losses": 15,
+      "losses": 16,
       "points": 38,
       "gf": 28,
       "ga": 37,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -20,6 +19,7 @@
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -30,15 +30,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 36,
+      "played": 37,
       "wins": 7,
       "draws": 13,
-      "losses": 16,
+      "losses": 17,
       "points": 34,
       "gf": 20,
       "ga": 41,
       "form": [
-        "L",
         "D",
         "L",
         "L",
@@ -46,6 +45,7 @@
         "D",
         "D",
         "D",
+        "L",
         "L",
         "L"
       ],
@@ -81,15 +81,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 37,
+      "played": 38,
       "wins": 4,
       "draws": 17,
-      "losses": 16,
+      "losses": 17,
       "points": 29,
       "gf": 8,
-      "ga": 46,
+      "ga": 49,
       "form": [
-        "D",
         "D",
         "D",
         "W",
@@ -98,7 +97,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -133,16 +133,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 34,
-      "wins": 20,
+      "played": 36,
+      "wins": 22,
       "draws": 8,
       "losses": 6,
-      "points": 68,
+      "points": 74,
       "gf": 57,
       "ga": 24,
       "form": [
-        "W",
-        "D",
         "W",
         "W",
         "W",
@@ -150,7 +148,9 @@
         "W",
         "L",
         "W",
-        "D"
+        "D",
+        "W",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -496,18 +496,18 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 29,
-      "wins": 13,
+      "played": 30,
+      "wins": 14,
       "draws": 5,
       "losses": 11,
-      "points": 44,
-      "gf": 36,
+      "points": 47,
+      "gf": 39,
       "ga": 28,
       "form": [
-        "W",
         "D",
         "D",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -554,12 +554,6 @@
       "postponedBy": "SMANGALISO"
     },
     {
-      "home": "bhaze",
-      "away": "DiliboL",
-      "id": 1775860895956,
-      "postponedBy": "DiliboL"
-    },
-    {
       "home": "RoyalAM",
       "away": "MGSatarou",
       "id": 1775860895970,
@@ -571,6 +565,54 @@
       "result": "home",
       "id": 1775944512442,
       "postponedBy": "CRANK_"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "Ctaum-cpt",
+      "id": 1776055899670,
+      "postponedBy": null
+    },
+    {
+      "home": "leomessi",
+      "away": "KING_KHESWA.",
+      "id": 1776055899672,
+      "postponedBy": null
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "RFT07",
+      "id": 1776055899675,
+      "postponedBy": null
+    },
+    {
+      "home": "Barca.",
+      "away": "E1even-Starz",
+      "id": 1776055899679,
+      "postponedBy": null
+    },
+    {
+      "home": "wham",
+      "away": "SMANGALISO",
+      "id": 1776055899681,
+      "postponedBy": null
+    },
+    {
+      "home": "bhaze",
+      "away": "MGSatarou",
+      "id": 1776055899683,
+      "postponedBy": null
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Yungboyshlime",
+      "id": 1776055899685,
+      "postponedBy": null
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "CRANK_",
+      "id": 1776055899687,
+      "postponedBy": null
     }
   ],
   "results": [
@@ -3525,7 +3567,28 @@
       "away": "wham",
       "result": "home",
       "id": 1775944867337
+    },
+    {
+      "home": "DiliboL",
+      "away": "Sailor",
+      "result": "home",
+      "id": 1776100517682
+    },
+    {
+      "home": "bhaze",
+      "away": "DiliboL",
+      "result": "away",
+      "id": 1776141308969
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Lukie",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1776141352161,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Lukie_1776141350699.jpg"
     }
   ],
-  "lastUpdated": "2026-04-11T22:10:57.696Z"
+  "lastUpdated": "2026-04-14T04:35:56.596Z"
 }
