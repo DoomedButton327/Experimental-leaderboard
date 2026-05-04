@@ -155,7 +155,7 @@
       "gf": 0,
       "ga": 0,
       "form": [],
-      "postponements": 20,
+      "postponements": 18,
       "suspended": false
     },
     {
@@ -283,6 +283,6 @@
       "suspended": false
     }
   ],
-  "updatedAt": "2026-05-04T18:27:55.099Z",
+  "updatedAt": "2026-05-04T18:54:00.718Z",
   "matchesPlayed": 3
 }
