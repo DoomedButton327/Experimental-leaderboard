@@ -134,18 +134,37 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "+27682987402",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
+      "points": 4,
+      "gf": 4,
+      "ga": 4,
+      "form": [
+        "W",
+        "L",
+        "D"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Dilibo👑",
+      "username": "DiliboL",
+      "phone": "+27760348136",
       "played": 2,
       "wins": 1,
       "draws": 0,
       "losses": 1,
       "points": 3,
       "gf": 4,
-      "ga": 4,
+      "ga": 3,
       "form": [
-        "W",
-        "L"
+        "L",
+        "W"
       ],
-      "postponements": 20,
+      "postponements": 18,
       "suspended": false
     },
     {
@@ -201,6 +220,24 @@
         "L",
         "L",
         "D"
+      ],
+      "postponements": 19,
+      "suspended": false
+    },
+    {
+      "name": "DJ Ronaldo ZA",
+      "username": "djronaldoza",
+      "phone": "+27711764627",
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "losses": 1,
+      "points": 1,
+      "gf": 0,
+      "ga": 3,
+      "form": [
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -273,61 +310,28 @@
       "gf": 0,
       "ga": 0,
       "form": [],
-      "postponements": 18,
+      "postponements": 19,
       "suspended": false
     },
     {
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27710050307",
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "points": 0,
       "gf": 0,
-      "ga": 3,
+      "ga": 7,
       "form": [
+        "L",
         "L"
       ],
       "postponements": 20,
       "suspended": false
-    },
-    {
-      "name": "DJ Ronaldo ZA",
-      "username": "djronaldoza",
-      "phone": "+27711764627",
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "points": 0,
-      "gf": 0,
-      "ga": 3,
-      "form": [
-        "L"
-      ],
-      "postponements": 19,
-      "suspended": false
-    },
-    {
-      "name": "Dilibo👑",
-      "username": "DiliboL",
-      "phone": "+27760348136",
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "points": 0,
-      "gf": 0,
-      "ga": 3,
-      "form": [
-        "L"
-      ],
-      "postponements": 18,
-      "suspended": false
     }
   ],
-  "updatedAt": "2026-05-07T05:47:13.250Z",
+  "updatedAt": "2026-05-07T17:05:34.819Z",
   "matchesPlayed": 22
 }
